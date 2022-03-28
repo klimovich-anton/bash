@@ -1,0 +1,518 @@
+﻿09/19/2021 22:01.39.011] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[09/19/2021 22:01.39.011] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[09/19/2021 22:01.39.016] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[09/19/2021 22:01.39.016] WudfCoInstaller: ImpersonationLevel set to 2
+
+[09/19/2021 22:01.39.016] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[09/19/2021 22:01.39.136] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[09/24/2021 19:48.05.747] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[09/24/2021 19:48.05.748] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[09/24/2021 19:48.05.749] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[09/24/2021 19:48.05.751] WudfCoInstaller: ImpersonationLevel set to 2
+
+[09/24/2021 19:48.05.752] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[09/24/2021 19:48.05.816] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[09/24/2021 19:48.21.877] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[09/24/2021 19:48.21.877] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[09/24/2021 19:48.21.877] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[09/24/2021 19:48.21.888] WudfCoInstaller: ImpersonationLevel set to 2
+
+[09/24/2021 19:48.21.889] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[09/24/2021 19:48.23.607] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[09/25/2021 07:46.02.059] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.Wdf]
+
+[09/25/2021 07:46.02.059] WudfCoInstaller: Imported INF file wpdmtp.inf according to Include directive on line 0 of C:\WINDOWS\INF\oem124.inf.
+
+[09/25/2021 07:46.02.059] WudfCoInstaller: Imported section [WPD.MTP.Wdf] according to section [MTP.Wdf] line 1, Needs directive.
+
+[09/25/2021 07:46.02.059] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[09/25/2021 07:46.02.059] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[09/25/2021 07:46.02.059] WudfCoInstaller: ImpersonationLevel set to 2
+
+[09/25/2021 07:46.02.059] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[09/25/2021 07:46.04.156] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+[09/25/2021 07:47.27.679] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.Wdf]
+
+[09/25/2021 07:47.27.679] WudfCoInstaller: Imported INF file wpdmtp.inf according to Include directive on line 0 of C:\WINDOWS\INF\oem124.inf.
+
+[09/25/2021 07:47.27.679] WudfCoInstaller: Imported section [WPD.MTP.Wdf] according to section [MTP.Wdf] line 1, Needs directive.
+
+[09/25/2021 07:47.27.679] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[09/25/2021 07:47.27.679] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[09/25/2021 07:47.27.689] WudfCoInstaller: ImpersonationLevel set to 2
+
+[09/25/2021 07:47.27.689] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[09/25/2021 07:47.27.779] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+[10/24/2021 19:28.26.826] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[10/24/2021 19:28.26.828] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[10/24/2021 19:28.26.830] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[10/24/2021 19:28.26.833] WudfCoInstaller: ImpersonationLevel set to 2
+
+[10/24/2021 19:28.26.834] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[10/24/2021 19:28.26.940] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[11/02/2021 23:47.52.987] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.Wdf]
+
+[11/02/2021 23:47.53.003] WudfCoInstaller: Imported INF file wpdmtp.inf according to Include directive on line 0 of C:\WINDOWS\INF\oem124.inf.
+
+[11/02/2021 23:47.53.003] WudfCoInstaller: Imported section [WPD.MTP.Wdf] according to section [MTP.Wdf] line 1, Needs directive.
+
+[11/02/2021 23:47.53.003] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[11/02/2021 23:47.53.003] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[11/02/2021 23:47.53.003] WudfCoInstaller: ImpersonationLevel set to 2
+
+[11/02/2021 23:47.53.003] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[11/02/2021 23:47.53.617] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+[11/02/2021 23:48.24.235] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.Wdf]
+
+[11/02/2021 23:48.24.235] WudfCoInstaller: Imported INF file wpdmtp.inf according to Include directive on line 0 of C:\WINDOWS\INF\oem124.inf.
+
+[11/02/2021 23:48.24.235] WudfCoInstaller: Imported section [WPD.MTP.Wdf] according to section [MTP.Wdf] line 1, Needs directive.
+
+[11/02/2021 23:48.24.235] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[11/02/2021 23:48.24.235] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[11/02/2021 23:48.24.235] WudfCoInstaller: ImpersonationLevel set to 2
+
+[11/02/2021 23:48.24.246] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[11/02/2021 23:48.24.376] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+[11/16/2021 02:00.11.825] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.NT.Wdf]
+
+[11/16/2021 02:00.11.825] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[11/16/2021 02:00.11.825] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[11/16/2021 02:00.11.834] WudfCoInstaller: ImpersonationLevel set to 2
+
+[11/16/2021 02:00.11.834] WudfCoInstaller: KernelModeClientPolicy set to 1
+
+[11/16/2021 02:00.11.834] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[11/16/2021 02:00.12.095] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+[11/21/2021 19:41.16.899] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[11/21/2021 19:41.16.899] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[11/21/2021 19:41.16.899] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[11/21/2021 19:41.16.899] WudfCoInstaller: ImpersonationLevel set to 2
+
+[11/21/2021 19:41.16.899] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[11/21/2021 19:41.17.055] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[11/22/2021 23:44.36.113] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[11/22/2021 23:44.36.113] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[11/22/2021 23:44.36.113] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[11/22/2021 23:44.36.113] WudfCoInstaller: ImpersonationLevel set to 2
+
+[11/22/2021 23:44.36.113] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[11/22/2021 23:44.41.163] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[11/24/2021 00:11.09.522] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[11/24/2021 00:11.09.522] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[11/24/2021 00:11.09.522] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[11/24/2021 00:11.09.522] WudfCoInstaller: ImpersonationLevel set to 2
+
+[11/24/2021 00:11.09.522] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[11/24/2021 00:11.14.565] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[11/24/2021 22:36.57.742] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[11/24/2021 22:36.57.743] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[11/24/2021 22:36.57.745] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[11/24/2021 22:36.57.747] WudfCoInstaller: ImpersonationLevel set to 2
+
+[11/24/2021 22:36.57.748] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[11/24/2021 22:37.00.960] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[12/03/2021 00:36.30.968] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[12/03/2021 00:36.30.970] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[12/03/2021 00:36.30.971] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[12/03/2021 00:36.30.973] WudfCoInstaller: ImpersonationLevel set to 2
+
+[12/03/2021 00:36.30.974] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[12/03/2021 00:36.33.821] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[12/03/2021 00:38.00.848] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[12/03/2021 00:38.00.848] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[12/03/2021 00:38.00.848] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[12/03/2021 00:38.00.858] WudfCoInstaller: ImpersonationLevel set to 2
+
+[12/03/2021 00:38.00.858] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[12/03/2021 00:38.00.948] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[12/25/2021 23:47.10.112] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.Wdf]
+
+[12/25/2021 23:47.10.128] WudfCoInstaller: Imported INF file wpdmtp.inf according to Include directive on line 0 of C:\WINDOWS\INF\oem124.inf.
+
+[12/25/2021 23:47.10.128] WudfCoInstaller: Imported section [WPD.MTP.Wdf] according to section [MTP.Wdf] line 1, Needs directive.
+
+[12/25/2021 23:47.10.128] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[12/25/2021 23:47.10.128] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[12/25/2021 23:47.10.128] WudfCoInstaller: ImpersonationLevel set to 2
+
+[12/25/2021 23:47.10.128] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[12/25/2021 23:47.12.717] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+[12/29/2021 00:35.20.982] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.Wdf]
+
+[12/29/2021 00:35.20.982] WudfCoInstaller: Imported INF file wpdmtp.inf according to Include directive on line 0 of C:\WINDOWS\INF\oem124.inf.
+
+[12/29/2021 00:35.20.982] WudfCoInstaller: Imported section [WPD.MTP.Wdf] according to section [MTP.Wdf] line 1, Needs directive.
+
+[12/29/2021 00:35.20.982] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[12/29/2021 00:35.20.997] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[12/29/2021 00:35.20.997] WudfCoInstaller: ImpersonationLevel set to 2
+
+[12/29/2021 00:35.20.997] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[12/29/2021 00:35.25.320] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+[12/29/2021 00:36.09.162] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.Wdf]
+
+[12/29/2021 00:36.09.178] WudfCoInstaller: Imported INF file wpdmtp.inf according to Include directive on line 0 of C:\WINDOWS\INF\oem124.inf.
+
+[12/29/2021 00:36.09.178] WudfCoInstaller: Imported section [WPD.MTP.Wdf] according to section [MTP.Wdf] line 1, Needs directive.
+
+[12/29/2021 00:36.09.178] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[12/29/2021 00:36.09.178] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[12/29/2021 00:36.09.178] WudfCoInstaller: ImpersonationLevel set to 2
+
+[12/29/2021 00:36.09.178] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[12/29/2021 00:36.09.247] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+[12/29/2021 01:23.10.305] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.Wdf]
+
+[12/29/2021 01:23.10.305] WudfCoInstaller: Imported INF file wpdmtp.inf according to Include directive on line 0 of C:\WINDOWS\INF\oem124.inf.
+
+[12/29/2021 01:23.10.310] WudfCoInstaller: Imported section [WPD.MTP.Wdf] according to section [MTP.Wdf] line 1, Needs directive.
+
+[12/29/2021 01:23.10.310] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[12/29/2021 01:23.10.310] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[12/29/2021 01:23.10.310] WudfCoInstaller: ImpersonationLevel set to 2
+
+[12/29/2021 01:23.10.310] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[12/29/2021 01:23.10.398] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo02/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo02/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 7
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 11
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{112FA8B4-E378-45E2-805F-09759AF36F40} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{E61B04B6-655F-4D27-BC65-4CBAF62D94E3}
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010000 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010000
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 7
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 11
+AudMig: Migrated {1da5d803-d492-4edd-8c23-e0c0ffee7f0e},5 property at 7
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{2269C1D5-3D34-4F18-8FEC-0B32AC4AF65D} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{70782AA2-1D32-4BBE-831F-5A21E4063BE9}
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo02/00010000 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo02/00010000
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 7
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 11
+AudMig: Migrated {1da5d803-d492-4edd-8c23-e0c0ffee7f0e},5 property at 7
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{5510D0BF-72C0-4547-B823-DCBCEB92D2F4} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{0A7A7117-906D-45E5-A0B8-7FC11A805245}
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo02/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo02/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 7
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 11
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{E61B04B6-655F-4D27-BC65-4CBAF62D94E3} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{B7C8E111-B549-4DE6-8957-B36AAC175FB1}
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+[01/29/2022 10:41.26.958] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.Wdf]
+
+[01/29/2022 10:41.26.958] WudfCoInstaller: Imported INF file wpdmtp.inf according to Include directive on line 0 of C:\WINDOWS\INF\oem124.inf.
+
+[01/29/2022 10:41.26.958] WudfCoInstaller: Imported section [WPD.MTP.Wdf] according to section [MTP.Wdf] line 1, Needs directive.
+
+[01/29/2022 10:41.26.973] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[01/29/2022 10:41.26.973] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[01/29/2022 10:41.26.995] WudfCoInstaller: ImpersonationLevel set to 2
+
+[01/29/2022 10:41.27.000] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[01/29/2022 10:41.28.059] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+[01/29/2022 10:53.02.252] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.Wdf]
+
+[01/29/2022 10:53.02.254] WudfCoInstaller: Imported INF file wpdmtp.inf according to Include directive on line 0 of C:\WINDOWS\INF\oem124.inf.
+
+[01/29/2022 10:53.02.262] WudfCoInstaller: Imported section [WPD.MTP.Wdf] according to section [MTP.Wdf] line 1, Needs directive.
+
+[01/29/2022 10:53.02.268] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[01/29/2022 10:53.02.273] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[01/29/2022 10:53.02.290] WudfCoInstaller: ImpersonationLevel set to 2
+
+[01/29/2022 10:53.02.295] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[01/29/2022 10:53.02.545] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+[02/17/2022 00:03.58.282] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[02/17/2022 00:03.58.293] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[02/17/2022 00:03.58.303] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[02/17/2022 00:03.58.334] WudfCoInstaller: ImpersonationLevel set to 2
+
+[02/17/2022 00:03.58.335] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[02/17/2022 00:04.00.417] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[02/17/2022 00:05.55.847] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[02/17/2022 00:05.55.848] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[02/17/2022 00:05.55.856] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[02/17/2022 00:05.55.884] WudfCoInstaller: ImpersonationLevel set to 2
+
+[02/17/2022 00:05.55.885] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[02/17/2022 00:05.56.086] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+[02/21/2022 00:10.51.015] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[02/21/2022 00:10.51.025] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[02/21/2022 00:10.51.030] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[02/21/2022 00:10.51.045] WudfCoInstaller: ImpersonationLevel set to 2
+
+[02/21/2022 00:10.51.045] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[02/21/2022 00:10.56.247] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[02/21/2022 00:30.07.171] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[02/21/2022 00:30.07.174] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[02/21/2022 00:30.07.179] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[02/21/2022 00:30.07.199] WudfCoInstaller: ImpersonationLevel set to 2
+
+[02/21/2022 00:30.07.199] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[02/21/2022 00:30.07.367] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+[02/28/2022 16:01.47.911] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[02/28/2022 16:01.47.915] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[02/28/2022 16:01.47.921] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[02/28/2022 16:01.47.939] WudfCoInstaller: ImpersonationLevel set to 2
+
+[02/28/2022 16:01.47.941] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[02/28/2022 16:01.48.085] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001 {2}.\\?\hdaudio#func_01&ven_10de&dev_0094&subsys_103c87ad&rev_1001#5&fbcf3c5&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo03/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 7
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 11
+AudMig: Migrated {b3f8fa53-0004-438e-9003-51a46e139bfc},5 property at 36
+AudMig: Migrated {b3f8fa53-0004-438e-9003-51a46e139bfc},0 property at 38
+AudMig: Migrated {f19f064d-082c-4e27-bc73-6882a1bb8e4c},0 property at 39
+AudMig: Migrated {6737016f-5360-48ee-af05-e616c8ff27a7},2 property at 42
+AudMig: Migrated {fd8a7b27-0b18-4025-ab1c-bdd6b32e1604},2 property at 43
+AudMig: Migrated {908dba32-edff-4c28-8e45-c918561f6748},2 property at 44
+AudMig: Migrated {913bc9a7-624b-4a30-96ac-5064a9fc6589},2 property at 45
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},2 property at 46
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},3 property at 47
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},4 property at 48
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},5 property at 49
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},6 property at 50
+AudMig: Migrated {9855c4cd-df8c-449c-a181-8191b68bd06c},0 property at 58
+AudMig: Migrated {9855c4cd-df8c-449c-a181-8191b68bd06c},1 property at 59
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{113190BB-10AF-4178-85E1-BAD48E750B65} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{C65912A5-8CB8-415E-895F-E27DB6C8C65F}

@@ -1,0 +1,32 @@
+Подсистема	Тип сообщения	Сообщение	Время
+Shader system	Warning	File not found	10:07:55
+Shader system	Error	Shaders not supported	10:07:55
+Shader system	Warning	File not found	10:07:55
+Console	Message	Hello world!!!	10:07:55
+System	Message	Engine started	10:07:55
+System	Warning	User is nub	10:07:55
+Shader system	Error	CPU not found	10:07:55
+Подсистема	Тип сообщения	Сообщение	Время
+Shader system	Warning	File not found	10:07:55
+Shader system	Error	Shaders not supported	10:07:55
+Shader system	Warning	File not found	10:07:55
+Console	Message	Hello world!!!	10:07:55
+System	Message	Engine started	10:07:55
+System	Warning	User is nub	10:07:55
+Shader system	Error	CPU not found	10:07:55
+Подсистема	Тип сообщения	Сообщение	Время
+Shader system	Warning	File not found	10:07:55
+Shader system	Error	Shaders not supported	10:07:55
+Shader system	Warning	File not found	10:07:55
+Console	Message	Hello world!!!	10:07:55
+System	Message	Engine started	10:07:55
+System	Warning	User is nub	10:07:55
+Shader system	Error	CPU not found	10:07:55
+Подсистема	Тип сообщения	Сообщение	Время
+Shader system	Warning	File not found	10:07:55
+Shader system	Error	Shaders not supported	10:07:55
+Shader system	Warning	File not found	10:07:55
+Console	Message	Hello world!!!	10:07:55
+System	Message	Engine started	10:07:55
+System	Warning	User is nub	10:07:55
+Shader system	Error	CPU not found	10:07:55
